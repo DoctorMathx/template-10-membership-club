@@ -59,7 +59,7 @@ export default function AboutPage() {
 
       <div className="container-x">
         <div className="relative aspect-[21/9] rounded-3xl overflow-hidden bg-canvas border border-line-soft">
-          <Image src="/img/team-boardroom.png" alt="Members at a salon" fill sizes="1200px" className="object-cover" />
+          <Image src="/img/hero-scene.jpg" alt="Members at a salon" fill sizes="1200px" className="object-cover" />
         </div>
       </div>
 

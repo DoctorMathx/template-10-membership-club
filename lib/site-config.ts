@@ -15,7 +15,7 @@ export const siteConfig = {
   founder: {
     name: "Nkechi Adebayo",
     role: "Founder, The Kola Room",
-    portrait: "/img/creator.png",
+    portrait: "/img/hero-portrait.jpg",
     shortBio:
       "I started The Kola Room because I couldn't find the room I wanted to be in. It's a quiet space for African creators, founders and operators who take their work — and each other — seriously.",
     metric: "412 members · 34 cities",
